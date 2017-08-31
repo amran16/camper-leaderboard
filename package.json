@@ -6,7 +6,8 @@
     "axios": "^0.16.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.12"
+    "react-scripts": "1.0.12",
+    "homepage": "https://amran16.github.io/camper-leaderboard"
   },
   "scripts": {
     "start": "react-scripts start",
